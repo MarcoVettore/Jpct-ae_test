@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jpct-ae test</string>
+    <string name="FpsText">FPS</string>
+    <string name="Button_Name">Useless Button</string>
+</resources>
